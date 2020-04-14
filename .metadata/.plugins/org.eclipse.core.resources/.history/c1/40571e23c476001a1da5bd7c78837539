@@ -1,0 +1,5 @@
+package com.curso.cursomc.dto;
+
+public class catgoriaDTO {
+
+}

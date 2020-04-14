@@ -1,0 +1,10 @@
+package com.curso.cursomc.dto;
+
+
+
+public class catgoriaDTO {
+
+	private static final long serialVersionUID = 1L;
+	private Integer id;
+	private String nome; 
+}

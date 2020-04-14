@@ -1,0 +1,9 @@
+package com.curso.cursomc.domain;
+
+import javax.persistence.GeneratedValue;
+
+public class Produto {
+	@Id	
+	@GeneratedValue(strategy = GenerationType.)
+	private 
+}
