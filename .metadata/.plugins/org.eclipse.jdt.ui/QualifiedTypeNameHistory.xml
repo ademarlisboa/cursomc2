@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.persistence.EmbeddedId"/>
-<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
-<fullyQualifiedTypeName name="com.curso.cursomc.domain.ItemPedido"/>
-<fullyQualifiedTypeName name="java.util.Arrays"/>
-<fullyQualifiedTypeName name="com.curso.cursomc.repositories.ItemPedidoRepository"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.repositories.PedidoRepository"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.services.PedidoService"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.domain.Pedido"/>
@@ -24,7 +19,6 @@
 <fullyQualifiedTypeName name="com.curso.cursomc.services.exceptions.DataIntegrityException"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.domain.Categoria"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-<fullyQualifiedTypeName name="org.springframework.data.domain.PageRequest"/>
 <fullyQualifiedTypeName name="org.springframework.data.domain.Sort.Direction"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
 <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
@@ -33,8 +27,6 @@
 <fullyQualifiedTypeName name="com.curso.cursomc.dto.CategoriaDto"/>
 <fullyQualifiedTypeName name="javax.validation.Valid"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.MethodArgumentNotValidException"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.resources.exception.ValidationError"/>
 <fullyQualifiedTypeName name="org.springframework.validation.FieldError"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.domain.Cliente"/>
@@ -48,7 +40,6 @@
 <fullyQualifiedTypeName name="javax.validation.Payload"/>
 <fullyQualifiedTypeName name="javax.validation.ConstraintValidator"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.services.validation.ClienteInsert"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.services.validation.utils.BR"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.domain.enums.TipoCliente"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.dto.ClienteNewDto"/>
@@ -60,4 +51,13 @@
 <fullyQualifiedTypeName name="org.springframework.web.servlet.HandlerMapping"/>
 <fullyQualifiedTypeName name="java.util.Map"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.services.validation.ClienteUpdate"/>
+<fullyQualifiedTypeName name="com.curso.cursomc.repositories.CategoriaRepository"/>
+<fullyQualifiedTypeName name="org.springframework.data.domain.PageRequest"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.curso.cursomc.resources.utils.URL"/>
+<fullyQualifiedTypeName name="java.net.URLDecoder"/>
+<fullyQualifiedTypeName name="com.curso.cursomc.dto.ProdutoDto"/>
+<fullyQualifiedTypeName name="org.springframework.data.domain.Pageable"/>
 </qualifiedTypeNameHistroy>
