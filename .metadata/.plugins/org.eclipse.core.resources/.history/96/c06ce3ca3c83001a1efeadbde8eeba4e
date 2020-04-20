@@ -1,0 +1,25 @@
+package com.curso.cursomc.services;
+
+import org.springframework.mail.SimpleMailMessage;
+
+import com.curso.cursomc.domain.Pedido;
+
+public abstract class AbstractEmailService implements EmailService{
+
+	@Override
+	public void sendOrderConfirmationEmail(Pedido obj) {
+		// TODO Auto-generated method stub
+		SimpleMailMessage sm = prepareSimpleMailMessageFromPedido(obj);
+		sendEmail(sm);
+	}
+	private SimpleMailMessage prepareSimpleMailMessageFromPedido(Pedido p) {
+		return null;
+	}
+	@Override
+	public void sendEmail(SimpleMailMessage msg) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}

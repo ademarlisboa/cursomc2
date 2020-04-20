@@ -1,0 +1,6 @@
+package com.curso.cursomc.services;
+
+public class MockEmailService extends AbstractEmailService {
+	
+
+}
