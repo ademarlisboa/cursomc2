@@ -1,5 +1,0 @@
-package com.curso.cursomc.services.validation;
-
-public class ClienteInsertValidator {
-
-}

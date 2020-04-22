@@ -1,0 +1,5 @@
+package com.curso.cursomc.config;
+
+public class SecurityConfig extends WebSegurityConfigurerAdapter{
+
+}
