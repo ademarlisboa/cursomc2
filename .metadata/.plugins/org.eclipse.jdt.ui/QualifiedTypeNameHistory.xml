@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.validation.ConstraintValidator"/>
-<fullyQualifiedTypeName name="com.curso.cursomc.services.validation.ClienteInsert"/>
-<fullyQualifiedTypeName name="com.curso.cursomc.services.validation.utils.BR"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.domain.enums.TipoCliente"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.dto.ClienteNewDto"/>
 <fullyQualifiedTypeName name="com.curso.cursomc.resources.exception.FieldMessage"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
+<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+<fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+<fullyQualifiedTypeName name="com.curso.cursomc.domain.enums.Perfil"/>
 </qualifiedTypeNameHistroy>
