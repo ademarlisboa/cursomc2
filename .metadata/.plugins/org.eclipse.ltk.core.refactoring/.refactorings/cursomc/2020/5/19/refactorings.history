@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TipoCliente.java&apos; to &apos;cursomc/src/main/java/com.curso.cursomc.domain.enums&apos;&#x0D;&#x0A;- Original project: &apos;cursomc&apos;&#x0D;&#x0A;- Destination element: &apos;cursomc/src/main/java/com.curso.cursomc.domain.enums&apos;&#x0D;&#x0A;- Original element: &apos;com.curso.cursomc.domain.enums.TipoCliente.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.curso.cursomc.domain.enums" element1="/src\/main\/java&lt;com.curso.cursomc.domain.enums{TipoCliente.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1588505344090" units="1" version="1.0"/>
+</session>
